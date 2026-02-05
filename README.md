@@ -30,4 +30,4 @@ The model detects whether a **student ID card is present** in a webcam frame.
 
 ---
 ## Status
-Still in development and trying to improve dataset.
+Still in development and trying to improve dataset
